@@ -7,8 +7,6 @@
 
   <p align="center">
    What are you in the mood for? :doughnut: :hamburger: :oden: :sushi: :pizza: <br />
-    <a href="https://github.com/christina003/food_mood"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/christina003/food_mood">
     <img src="media/food_mood_gif.gif" alt="Demo" width="700" height="600"></a>
@@ -40,7 +38,7 @@
 
 ## About The Project
   <p align="left">
-  A mobile application where you can search through restaurants near you and swipe on what sounds good! <br />
+  A mobile application where you can search through restaurants near you and swipe on what sounds good! <br /><br />
   Working on: <br />
   :tomato: Group functionality to match based on what connected users are in the mood for <br /><br />
   </p>
